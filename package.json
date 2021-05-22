@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ramirezmz/download-video-js/issues"
   },
-  "homepage": "https://github.com/ramirezmz/download-video-js#readme"
+  "homepage": "https://github.com/ramirezmz/download-video-js#readme",
+  "dependencies": {
+    "youtube-dl": "^3.5.0"
+  }
 }
